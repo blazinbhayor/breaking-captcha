@@ -51,7 +51,7 @@ Lead: Renee Farina (rfarina@deakin.edu.au)
 
 T2 2022 is the second implementation of the Braking CAPTCHA project in Deakin University's Capstone program. In the inaugral implementation the focus of the project was on building models to improve on current installations. The collection of work that was produced in T1 2022 can be found in the [Project History folder](https://github.com/cyber-panther/breaking-captcha/tree/main/Project_History/Trimester01.
 
-This trimester the focus on model building remains, however we have an additional focus of building infrastrucure and knowledge management solutions that will transcend trimesters and improve the continuity of the Breaking CAPTCHA project in trimesters to come. This is to support the ultimate outcome of developing an interface to solce CAPTCHA's.
+This trimester the focus on model building remains, however we have an additional focus of building infrastrucure and knowledge management solutions that will transcend trimesters and improve the continuity of the Breaking CAPTCHA project in trimesters to come. This is to support the ultimate outcome of developing an interface to solve CAPTCHA's.
 
 ## Operating GitHub (Pull requests)
 
@@ -61,7 +61,7 @@ GitHub is a version control system that allows for collaboration amongst team me
 
 ### Collaborating Through GitHub
 
-You can use GitHub either via its web version or desktop application. Branches are the central operating mechanism GitHub uses for collaboration. It allows us to have different versions of a repository simultaneously without making an change to the main source of code. The work done on different branches will not show up on the main branch until you merge it, allowing for experimentation with the code.
+You can use GitHub either via its web version or desktop application. Branches are the central operating mechanism GitHub uses for collaboration. It allows us to have different versions of a repository simultaneously without making any change to the main source of code. The work done on different branches will not show up on the main branch until you merge it, allowing for experimentation with the code.
 
 ### Pull requests
 
